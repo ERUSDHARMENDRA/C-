@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//inline function saves the execution time of small funcitons
 inline int max(int x, int y){
     return ((x>y)? x : y);
 }
